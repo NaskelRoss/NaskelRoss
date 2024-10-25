@@ -1,6 +1,5 @@
-# Вернуться
+# A spark
 
-Решил снова взяться.  
-Сделал пару строк.  
-Удалил. Ушёл.
+Not sure where it leads.  
+But I want to build.
 

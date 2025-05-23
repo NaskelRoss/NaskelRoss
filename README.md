@@ -1,14 +1,10 @@
-# Silence
+# Naskel Ross
 
-Everything broke.  
-I’m not ready to delete it.  
-But I can't keep looking at it either.
+Code is not my job. It’s how I breathe.
 
-There’s nothing left.  
-Just emptiness. Inside.  
-Like someone cut the cord to everything that mattered.
+Fragments of systems. Broken logic.  
+I don't fix the world — I rewrite it.
 
-I don’t want to be here.  
-I don’t want to feel anything.  
-I just want it to end.
+For the Glory of R.O.O.T.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=NaskelRoss&theme=cobalt)](https://git.io/streak-stats)
